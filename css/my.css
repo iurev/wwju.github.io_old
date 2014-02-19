@@ -1,0 +1,41 @@
+body {
+  font-family: 'Open Sans';
+  color: #777;
+}
+
+.site {
+  margin: 0 auto;
+  padding: 0 70px;
+  width: 100%
+  min-width: 500px;
+  max-width: 1000px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 a, .footer, .footer a {
+  color: rgb(167, 138, 162);
+}
+
+.content, .footer {
+  margin: 0 20px;
+}
+
+a {
+  color: #777;
+  text-decoration: none;
+}
+
+p {
+  text-align: justify;
+}
+
+.highlight {
+  margin: 30px 0;
+}
+/*  */
+/* .footer { */
+/*   margin: 0 100px; */
+/* } */
