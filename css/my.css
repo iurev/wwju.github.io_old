@@ -3,12 +3,20 @@ body {
   color: #777;
 }
 
+ul.posts {
+  list-style-type: thai;
+  font-size: 18px;
+}
+
 .site {
   margin: 0 auto;
   padding: 0 70px;
-  width: 100%
-  min-width: 500px;
+  width: 100%;
   max-width: 1000px;
+}
+
+h1, .footer, .header, p.meta, ul.posts span {
+  font-family: Kavoon;
 }
 
 h1 {
@@ -39,3 +47,7 @@ p {
 /* .footer { */
 /*   margin: 0 100px; */
 /* } */
+
+.my_name, h2, ul.posts a {
+  color: rgb(121, 121, 187);
+}
