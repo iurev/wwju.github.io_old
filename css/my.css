@@ -13,6 +13,7 @@ ul.posts {
   padding: 0 70px;
   width: 100%;
   max-width: 1000px;
+  display: inline;
 }
 
 h1, .footer, .header, p.meta, ul.posts span {
